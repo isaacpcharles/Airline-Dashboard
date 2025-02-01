@@ -1,5 +1,7 @@
 This Airline Dashboard project provides a comprehensive summary of flight data from a CSV file containing information on multiple airline carriers. Through visualizations and data transformations, the dashboard uncovers key insights hidden within the raw dataset.
 Key computations include summarizations and variance calculations to highlight deviations from expected flight times.
+
+
 Below is the M code used to transform the raw data into a structured dataset, optimized for extracting valuable business insights:
 
 let
